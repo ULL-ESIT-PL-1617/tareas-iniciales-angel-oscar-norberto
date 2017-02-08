@@ -105,8 +105,11 @@ Para crear enfasis en una frase, palabra, o incluso en mitad de una palabra, se 
     __dos barras bajas__
 
 *un asterisco*
+
 _una barra baja_
+
 **dos asteriscos**
+
 __dos barras bajas__
 
 ###Código
