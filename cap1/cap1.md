@@ -73,7 +73,7 @@ Tambien podemos usar numeros para ordenar las listas.
 * Pies
 
 1. Cabeza
-··* Pelo
+..* Pelo
 ··* Cara
 2. Hombros
 ··+ Brazos
@@ -119,7 +119,7 @@ __dos barras bajas__
 
 ###Código
 
-Para escribir un código y que MarkDown lo escriba de forma literal se escribe entre tildes ` `` `. La diferencia entre esto y los bloques de código es que de esta manera podemos escribir secciones de código dentro de un parrafo.
+Para escribir un código y que MarkDown lo escriba de forma literal se escribe entre tildes ` (``) `. La diferencia entre esto y los bloques de código es que de esta manera podemos escribir secciones de código dentro de un parrafo.
 
   Usamos `print()` para escribir por pantalla.
 
