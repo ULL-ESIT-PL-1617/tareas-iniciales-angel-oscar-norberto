@@ -33,11 +33,11 @@ Existe una sintaxis alternativa para los títulos 1 y 2 que consiste en "subraya
 Nivel 1 alternativo
 ===================
   Nivel 1 alternativo
-  '==================='
+  `===================`
 Nivel 2 alternativo
 -------------------
   Nivel 2 alternativo
-  '-------------------
+  `-------------------`
 
 ###Bloques de cita
 
@@ -46,9 +46,9 @@ Al igual que los correos electrónicos, se puede citar un contenido añadiendo >
   '>La cita puede contener otros elementos'
   '>###Como encabezados'
 
-  '>Y no hace fata
+  `>Y no hace fata
   añadir >
-  al principio de cada linea'
+  al principio de cada linea`
 
 >Esto es una cita.
 >La cita puede contener otros elementos
@@ -63,17 +63,17 @@ al principio de cada linea
 Para hacer listas, utilizamos *, +, o - indististintamente, incluso mezclandolos.
 Tambien podemos usar numeros para ordenar las listas.
 
-  '*Cabeza'
-  '+Hombros'
-  '-Pies'
+  `*Cabeza
+  +Hombros
+  -Pies`
 
-  '1. Cabeza'
-    '*Pelo'
-    '*Cara'
-  '2. Hombros'
-    '+Brazos'
-      '-Manos'
-  '3. Pies'
+  `1. Cabeza
+    *Pelo
+    *Cara
+  2. Hombros
+    +Brazos
+      -Manos
+  3. Pies`
 
 *Cabeza
 +Hombros
@@ -91,7 +91,7 @@ Tambien podemos usar numeros para ordenar las listas.
 
 Para escribir sobre programación tenemos que indentar el texto. Los textos indentados no se formatean, si no que se escriben literalente.
 
-Todos los ejemplos de los otros apartados están hechos de esta manera.
+Los ejemplos de los otros apartados están hechos de esta manera.
 
 ###Enlaces
 
@@ -99,25 +99,25 @@ Markdown soporta dos tipos de enlaces: inline y por referencia
 En ambos casos, el texto del enlace se  escribe [entre corchetes].
 Para crea un link inline, se escribe el link entre paréntesis justo detrás del texto entre corchetes.
 
-  Esto es [un ejemplo](http://ejemplo.com/)
+  `Esto es [un ejemplo](http://ejemplo.com/).`
   También [puede estar](http://ejemplo.com/) en medio de la linea.
 
 En los enlaces por referencia, se escribe el texto del enlace y al lado, entre corchetes, una id. Después del parrafo, se escribe la id y el enlace en cuestión. El resultado es el mismo que con los enlaces inline.
 
-  Esto es un [ejemplo][ej1] y otro [ejmplo][ej2] y [otro más][ej3].
+  `Esto es un [ejemplo][ej1] y otro [ejmplo][ej2] y [otro más][ej3].
 
   [ej1]: http://ejemplo1.com/
   [ej2]: http://ejemplo2.com/
-  [ej3]: http://ejemplo3.com/
+  [ej3]: http://ejemplo3.com/`
 
 ###Enfasis
 
 Para crear enfasis en una frase, palabra, o incluso en mitad de una palabra, se usan uno o dos * o _.
 
-  '*un asterisco*'
-  '_una barra baja_'
-  '**dos asteriscos**'
-  '__dos barras bajas__'
+  `*un asterisco*`
+  `_una barra baja_`
+  **dos asteriscos**
+  __dos barras bajas__'
 
 *un asterisco*
 _una barra baja_
@@ -126,20 +126,14 @@ __dos barras bajas__
 
 ###Código
 
-Para escribir un código y que MarkDown lo escriba de forma literal se escribe entre comillas simples. La diferencia entre esto y los bloques de código es que de esta manera podemos escribir secciones de código dentro de un parrafo.
+Para escribir un código y que MarkDown lo escriba de forma literal se escribe entre tildes ` `` `. La diferencia entre esto y los bloques de código es que de esta manera podemos escribir secciones de código dentro de un parrafo.
 
-  Usamos 'print()' para escribir por pantalla.
+  Usamos `print()` para escribir por pantalla.
 
 ###Imagenes
 
 Se insertan imagenes de manera similar a los enlaces. Para indicar que estamos insertando una imagen, ponemos una exclamación ! al principio de la línea.
 
-  ![Texto alternativo](/assets/manual.png)
-  ![Texto alternativo][id]
-
-  [id](/assets/manual.png)
+  `![Texto alternativo](/assets/manual.png)`
 
 ![Texto alternativo](/assets/manual.png)
-![Texto alternativo][id]
-
-[id](/assets/manual.png)
