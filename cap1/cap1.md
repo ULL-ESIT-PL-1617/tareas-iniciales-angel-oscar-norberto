@@ -33,22 +33,22 @@ Existe una sintaxis alternativa para los títulos 1 y 2 que consiste en "subraya
 Nivel 1 alternativo
 ===================
   Nivel 1 alternativo
-  ===================
+  '==================='
 Nivel 2 alternativo
 -------------------
   Nivel 2 alternativo
-  -------------------
+  '-------------------
 
 ###Bloques de cita
 
 Al igual que los correos electrónicos, se puede citar un contenido añadiendo > al principio de la linea. Con MarkDown basta con que la añadamos al principio del párrafo.
-  >Esto es una cita.
-  >La cita puede contener otros elementos
-  >#Como encabezados
+  '>Esto es una cita.'
+  '>La cita puede contener otros elementos'
+  '>###Como encabezados'
 
-  >Y no hace fata
+  '>Y no hace fata
   añadir >
-  al principio de cada linea
+  al principio de cada linea'
 
 >Esto es una cita.
 >La cita puede contener otros elementos
@@ -63,17 +63,17 @@ al principio de cada linea
 Para hacer listas, utilizamos *, +, o - indististintamente, incluso mezclandolos.
 Tambien podemos usar numeros para ordenar las listas.
 
-  *Cabeza
-  +Hombros
-  -Pies
+  '*Cabeza'
+  '+Hombros'
+  '-Pies'
 
-  1. Cabeza
-    *Pelo
-    *Cara
-  2. Hombros
-    +Brazos
-      -Manos
-  3. Pies
+  '1. Cabeza'
+    '*Pelo'
+    '*Cara'
+  '2. Hombros'
+    '+Brazos'
+      '-Manos'
+  '3. Pies'
 
 *Cabeza
 +Hombros
@@ -114,10 +114,10 @@ En los enlaces por referencia, se escribe el texto del enlace y al lado, entre c
 
 Para crear enfasis en una frase, palabra, o incluso en mitad de una palabra, se usan uno o dos * o _.
 
-  *un asterisco*
-  _una barra baja_
-  **dos asteriscos**
-  __dos barras bajas__
+  '*un asterisco*'
+  '_una barra baja_'
+  '**dos asteriscos**'
+  '__dos barras bajas__'
 
 *un asterisco*
 _una barra baja_
@@ -134,7 +134,12 @@ Para escribir un código y que MarkDown lo escriba de forma literal se escribe e
 
 Se insertan imagenes de manera similar a los enlaces. Para indicar que estamos insertando una imagen, ponemos una exclamación ! al principio de la línea.
 
-  ![Texto alternativo](/ruta/ala/imagen.jpg)
+  ![Texto alternativo](/assets/manual.png)
   ![Texto alternativo][id]
 
-  [id] http://urldelaimagen.com/imagen.jpg
+  [id](/assets/manual.png)
+
+![Texto alternativo](/assets/manual.png)
+![Texto alternativo][id]
+
+[id](/assets/manual.png)
