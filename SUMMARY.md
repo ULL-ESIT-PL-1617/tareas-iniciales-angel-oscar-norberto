@@ -8,4 +8,5 @@
 * [Capitulo 5: Pandoc](cap5/cap5.md)
 * [Capitulo 6: Atom](cap6/cap6.md)
 * [Capitulo 7: Gitbook](cap7/cap7.md)
+* [Capitulo 8: Cloud 9](cap8/cap8.md)
 
