@@ -74,7 +74,7 @@ Tambien podemos usar numeros para ordenar las listas.
 
 ###Bloques de código
 
-Para escribir sobre programación tenemos que indentar el texto. Los textos indentados no se formatean, si no que se escriben literalente.
+Para escribir sobre programación tenemos que indentar el texto cuatro espacios. Los textos indentados no se formatean, si no que se escriben literalente.
 
 Los ejemplos de los otros apartados están hechos de esta manera.
 
