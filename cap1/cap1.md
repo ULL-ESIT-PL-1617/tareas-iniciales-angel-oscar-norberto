@@ -1,5 +1,1 @@
-# Introduction
-
-
-
 ![](/assets/manual.png)
