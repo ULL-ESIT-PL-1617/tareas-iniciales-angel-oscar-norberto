@@ -7,7 +7,7 @@ Usaremos **Atom** como editor de texto para el desarrollo de nuestros proyectos,
 
 A continuación ejecutamos el asistente de instalación, seguimos los correspondiente pasos de proramación.
 
-![](assets/atom1.png)
+![](/assets/atom1.png)
 
 Dado que vamos a utilizar el formato **Markdown** es bueno saber que en **Atom** podremos obtener una preview del contenido de nuestro fichero Markdown ya que incorpora el formato **GitHub Markdown** con el comando:
 
