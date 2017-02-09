@@ -36,7 +36,7 @@ Una vez entramos en la página de nuestra cuenta, podemos crear un nuevo reposit
 ![new repository](/assets/githubNewRepository.png)
 
 Tras crear el repositorio, vamos a clonarlo en nuestra máquina local para poder trabajar más comodamente. Para esto vamos a la opción de clonar repositorio y copiamos en enlace ssh que nos dan.
-![clone repository](/assets/githubCloneRepository.png)
+![clone repository](/assets/githubColneRepository.png)
 
 Y en nuestra máquina local ejecutamos:
 
