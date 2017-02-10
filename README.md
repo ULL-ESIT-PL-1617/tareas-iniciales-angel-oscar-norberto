@@ -6,4 +6,20 @@ gh-pages: https://ull-esit-pl-1617.github.io/tareas-iniciales-angel-oscar-norber
 
 Gitbook.com: https://alu0100825893.gitbooks.io/manual/content/
 
+
+Descripción de la práctica: https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html
+
+
+
+Oscar Catari Gutierrez: http://alu0100825893.github.io/
+
+Norberto García Gazpar http://alu0100611519.github.io/
+
+Ángel Alberto Hamilton López http://alu0100888102.github.io/
+
+
+Repositorio de la organizacion(issues,proyecto,ghpages):  https://ull-esit-pl-1617.github.io/tareas-iniciales-angel-oscar-norberto/
+
+Repositorio fork(solo para poder desplegar en gitbook.com): https://github.com/alu0100825893/tareas-iniciales-angel-oscar-norberto.git
+
 ![](/assets/manual.png)
