@@ -20,6 +20,5 @@ Norberto García Gazpar http://alu0100611519.github.io/
 
 Repositorio de la organizacion(issues,proyecto,ghpages):  https://ull-esit-pl-1617.github.io/tareas-iniciales-angel-oscar-norberto/
 
-Repositorio fork(solo para poder desplegar en gitbook.com): https://github.com/alu0100825893/tareas-iniciales-angel-oscar-norberto.git
 
 ![](/assets/manual.png)
