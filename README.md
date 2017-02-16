@@ -18,7 +18,7 @@ Norberto García Gazpar http://alu0100611519.github.io/
 Ángel Alberto Hamilton López http://alu0100888102.github.io/
 
 
-Repositorio de la organizacion(issues,proyecto,ghpages):  https://ull-esit-pl-1617.github.io/tareas-iniciales-angel-oscar-norberto/
+Repositorio de la organizacion(issues,proyecto,ghpages):  https://github.com/ULL-ESIT-PL-1617/tareas-iniciales-angel-oscar-norberto
 
 
 ![](/assets/manual.png)
